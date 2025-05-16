@@ -1,4 +1,4 @@
-# bank-statement-converter
+# Bank statement converter
 
 Bank Statement Converter
 
